@@ -1,7 +1,7 @@
 # Discord-MassDeleter
 Simple UI for deleting your discord messages using keybinds; mostly useful for deleting a lot of messages                                                                                                         
 
-# Libs
+# Libaries
 Guna UI: https://www.nuget.org/packages/Guna.UI2.WinForms/2.0.1.7?_src=template                                                                                           
 
 InputSimulator: https://www.nuget.org/packages/InputSimulator/1.0.4?_src=template
